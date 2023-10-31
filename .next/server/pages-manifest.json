@@ -2,7 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
   "/about-us": "pages/about-us.js",
-  "/about-us/developer": "pages/about-us/developer.js"
+  "/about-us/[developerId]": "pages/about-us/[developerId].js"
 }
